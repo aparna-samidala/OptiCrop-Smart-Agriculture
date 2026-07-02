@@ -1,40 +1,43 @@
 # Project Documentation
 
 ## Introduction
-The Smart Agricultural Production Optimization Engine (OptiCrop) is a machine learning-based web application that helps farmers optimize crop production. It predicts the most suitable crop based on soil and environmental conditions such as nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.
+OptiCrop is a Smart Agricultural Production Optimization Engine that helps farmers choose the most suitable crop based on soil and environmental conditions using Machine Learning.
 
 ## Objective
-- Recommend the best crop for cultivation.
+- Predict the best crop for cultivation.
 - Improve agricultural productivity.
-- Assist farmers in making data-driven decisions.
-- Reduce crop failure through accurate predictions.
+- Reduce crop selection errors.
+- Support farmers with data-driven decisions.
 
 ## Software Requirements
-- Python 3.x
+- Python
 - Flask
-- Visual Studio Code
-- Git & GitHub
+- VS Code
+- GitHub
 
 ## Hardware Requirements
-- Processor: Intel Core i3 or above
-- RAM: 4 GB or higher
-- Storage: 500 MB free space
+- Laptop/Desktop
+- Minimum 4 GB RAM
+- Internet Connection
 
 ## Technologies Used
 - Python
-- Flask
 - Machine Learning
-- HTML
-- CSS
+- Flask
 - Pandas
 - Scikit-learn
+- HTML
+- CSS
 
 ## Methodology
-1. Collect agricultural dataset.
+1. Collect crop dataset.
 2. Preprocess the data.
 3. Train the machine learning model.
-4. Develop the Flask web application.
-5. Predict the best crop based on user inputs.
+4. Predict suitable crops.
+5. Display the prediction through a web interface.
+
+## Output
+The system predicts the most suitable crop based on the input values provided by the user.
 
 ## Conclusion
-The Smart Agricultural Production Optimization Engine provides an efficient and reliable solution for crop recommendation, helping farmers improve productivity using machine learning.
+The project helps farmers make better crop selection decisions using machine learning, leading to improved productivity and efficient resource utilization.

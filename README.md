@@ -1,5 +1,11 @@
 # 🌾 Smart Agricultural Production Optimization Engine
-![Project Preview](Project%20Demonstration/Screenshot%202026-07-01%20204903.png)
+## Project Demonstration
+
+### Input Interface
+![Input Screen](0ea00d09-3ecc-4197-99f2-41d44ff4a6bb.jpg)
+
+### Prediction Result
+![Prediction Result](6ba00103-d6d5-4d9d-9758-07d9b74aa854.jpg)
 ## 📖 Project Overview
 
 The **Smart Agricultural Production Optimization Engine** is an Artificial Intelligence and Machine Learning-based web application developed to recommend the most suitable crop based on environmental and soil conditions. This application helps farmers make informed decisions by analyzing agricultural parameters such as temperature, rainfall, humidity, soil type, and soil pH.

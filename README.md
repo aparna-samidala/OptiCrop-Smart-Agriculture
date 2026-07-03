@@ -1,5 +1,5 @@
 # 🌾 Smart Agricultural Production Optimization Engine
-## Project Demonstration
+
 ## 📸 Project Demonstration
 
 ### Input Interface

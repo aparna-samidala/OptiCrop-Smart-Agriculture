@@ -118,7 +118,7 @@ https://github.com/ramyareddy69038-maker/OptiCrop-Smart-Agriculture
 
 ## 👩‍💻 Developer
 
-**Name:** Ramya
+**Name:** Kapu Ramya
 
 ## 📌 Conclusion
 

@@ -1,12 +1,4 @@
 # 🌾 Smart Agricultural Production Optimization Engine
-## Application Screenshots
-
-### Home Page
-![Home Page](streamlit_home_page.png)
-
-### Prediction Result
-![Prediction Result](prediction_result.png)
-
 
 ## 📖 Project Overview
 

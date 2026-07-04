@@ -1,14 +1,12 @@
 # 🌾 Smart Agricultural Production Optimization Engine
+## Application Screenshots
 
-## 📸 Project Demonstration
-
-### Input Interface
-![Input Interface](Project%20Demonstration/0ea00d09-3ecc-4197-99f2-41d44ff4a6bb.jpg)
+### Home Page
+![Home Page](streamlit_home_page.png)
 
 ### Prediction Result
-![Prediction Result](Project%20Demonstration/6ba00103-d6d5-4d9d-9758-07d9b74aa854.jpg)
+![Prediction Result](prediction_result.png)
 
----
 
 ## 📖 Project Overview
 

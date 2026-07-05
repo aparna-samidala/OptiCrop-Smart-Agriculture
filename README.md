@@ -95,7 +95,7 @@ Recommended Crop: **Rice 🌾**
 
 ## 🌐 Live Demo
 
-https://opticrop-smart-agriculture.streamlit.app/
+https://opticrop-smart-agriculture-ajo4nnegfeqh4xj7chxjet.streamlit.app/
 
 ---
 

@@ -30,4 +30,5 @@ if st.button("Predict Crop"):
     ]], columns=["Temperature","Rainfall","Humidity","Soil","pH"])
 
     prediction = model.predict(data)
-    st.success(f"Recommended Crop: {prediction[0]}")
+crop = prediction[0]
+st.success(f"Recommended Crop: {crop}")

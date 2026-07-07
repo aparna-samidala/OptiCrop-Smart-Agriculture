@@ -1,5 +1,11 @@
 # 🌾 Smart Agricultural Production Optimization Engine
 
+<img width="427" height="277" alt="Screenshot 2026-07-04 213349" src="https://github.com/user-attachments/assets/b2741a0a-4831-41a2-9284-4c139d165f8d" />
+
+<img width="454" height="137" alt="Screenshot 2026-07-04 213557" src="https://github.com/user-attachments/assets/851c3d1c-0997-409f-bbd2-d9a4be166c44" />
+🌐 Live Demo:-https://opticrop-smart-agriculture-ajo4nnegfeqh4xj7chxjet.streamlit.app/
+
+
 ## 📖 Project Overview
 
 The **Smart Agricultural Production Optimization Engine** is an Artificial Intelligence and Machine Learning-based web application developed to recommend the most suitable crop based on environmental and soil conditions. This application helps farmers make informed decisions by analyzing agricultural parameters such as temperature, rainfall, humidity, soil type, and soil pH.

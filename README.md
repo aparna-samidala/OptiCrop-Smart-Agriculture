@@ -1,5 +1,3 @@
-# 🌾 Smart Agricultural Production Optimization Engine
-
 <img width="587" height="372" alt="Screenshot 2026-07-01 204903" src="https://github.com/user-attachments/assets/388cbafe-21e6-4f84-9b5e-e8d82ea93c83" />
 <img width="595" height="185" alt="Screenshot 2026-07-02 151856" src="https://github.com/user-attachments/assets/85313402-24fd-42a9-9ebc-e34f5a73a753" />
 

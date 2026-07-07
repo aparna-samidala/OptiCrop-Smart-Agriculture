@@ -2,7 +2,9 @@
 
 <img width="427" height="277" alt="Screenshot 2026-07-04 213349" src="https://github.com/user-attachments/assets/b2741a0a-4831-41a2-9284-4c139d165f8d" />
 
-<img width="454" height="137" alt="Screenshot 2026-07-04 213557" src="https://github.com/user-attachments/assets/851c3d1c-0997-409f-bbd2-d9a4be166c44" />
+<img width="448" height="128" alt="Screenshot 2026-07-07 085716" src="https://github.com/user-attachments/assets/fda1cc29-feff-40c7-8eb3-0ba24bd53b1a" />
+
+
 🌐 Live Demo:-https://opticrop-smart-agriculture-ajo4nnegfeqh4xj7chxjet.streamlit.app/
 
 

@@ -1,7 +1,9 @@
 # 🌾 Smart Agricultural Production Optimization Engine
 
-<img width="427" height="277" alt="Screenshot 2026-07-04 213349" src="https://github.com/user-attachments/assets/b2741a0a-4831-41a2-9284-4c139d165f8d" />
-<img width="448" height="128" alt="Screenshot 2026-07-07 085716" src="https://github.com/user-attachments/assets/fda1cc29-feff-40c7-8eb3-0ba24bd53b1a" />
+<img width="587" height="372" alt="Screenshot 2026-07-01 204903" src="https://github.com/user-attachments/assets/388cbafe-21e6-4f84-9b5e-e8d82ea93c83" />
+<img width="595" height="185" alt="Screenshot 2026-07-02 151856" src="https://github.com/user-attachments/assets/85313402-24fd-42a9-9ebc-e34f5a73a753" />
+
+
 
 
 🌐 Live Demo:-https://opticrop-smart-agriculture-ajo4nnegfeqh4xj7chxjet.streamlit.app/

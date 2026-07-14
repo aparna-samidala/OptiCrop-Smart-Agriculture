@@ -67,9 +67,12 @@ OptiCrop-Smart-Agriculture/
 
 ## ⚙ Installation
 
-git clone https://github.com/aparna-samidala/OptiCrop-Smart-Agriculture.git
+git clone https://github.com/aparna-samidala/OptiCrop-Smart-Agriculture.git 
+
 cd OptiCrop-Smart-Agriculture
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---

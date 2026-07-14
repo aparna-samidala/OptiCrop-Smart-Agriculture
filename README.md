@@ -67,16 +67,17 @@ OptiCrop-Smart-Agriculture/
 
 ## ⚙ Installation
 
-```bash
-git clone https://github.com/ramyareddy69038-maker/OptiCrop-Smart-Agriculture.git
+# 1. Clone YOUR independent repository
+git clone https://github.com/aparna-samidala/OptiCrop-Smart-Agriculture.git
 
+# 2. Move into YOUR project folder
 cd OptiCrop-Smart-Agriculture
 
+# 3. Install the required packages
 pip install -r requirements.txt
 
+# 4. Launch your local Streamlit app
 streamlit run app.py
-```
-
 ---
 
 ## 💻 How to Use
@@ -104,7 +105,7 @@ Recommended Crop: **Rice 🌾**
 
 ## 🌐 Live Demo
 
-https://opticrop-smart-agriculture-ajo4nnegfeqh4xj7chxjet.streamlit.app/
+https://opticrop-smart-agriculture-uxhtxrazr9juvnfbxnjrsj.streamlit.app/
 
 ---
 

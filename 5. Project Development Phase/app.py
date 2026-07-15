@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pickle
 import pandas as pd
@@ -30,4 +31,7 @@ if st.button("Predict Crop"):
     ]], columns=["Temperature","Rainfall","Humidity","Soil","pH"])
 
     prediction = model.predict(data)
-    st.success(f"Recommended Crop: {prediction[0]}")
+    
+    #  Moved inside the if-statement
+    crop = prediction[0]
+    st.success(f"Recommended Crop: {crop}")
